@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scipy
+torch>=2.6
+torchvision
+jupyter
